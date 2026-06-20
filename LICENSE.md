@@ -1,6 +1,6 @@
 # License
 
-**Sábanas de estrellas**
+**Sábanas de estrellas, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

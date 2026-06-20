@@ -1,4 +1,4 @@
-# Sábanas de estrellas
+# Sábanas de estrellas, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Sábanas de estrellas |
+| **Title** | Sábanas de estrellas, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-estrellas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sábanas de estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-estrellas/) |
+| **Get License** | [Request Licensing for Sábanas de estrellas, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-estrellas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo sábanas de estrellas luces de neón
+> Eres la reina de la noche y de mi corazón
+> Esta madrugada en Madrid nos vamos a perder
+> Tengo el fuego que te falta para enloquecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3e7034015e07a0372d6062e29fc3ad39bb4f74784fac334a245e128a7d9fd4ab` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

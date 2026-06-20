@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas de estrellas, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Sábanas de estrellas, Vol. 2** (sabanas-de-estrellas-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T21:21:48.168747 | `v1` | `3e7034015e07a0372d6062e29fc3ad39bb4f74784fac334a245e128a7d9fd4ab` | `b39b3ed07fc64cf3980da73fecb86feb85dccfa8115d3dd4dcdc6bf097122ac1` | `2026-06-20_sabanas-de-estrellas-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
